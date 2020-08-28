@@ -2,6 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
+      <module name="info.garagesalesapp.java-project.json-display.main" target="1.8" />
+      <module name="info.garagesalesapp.java-project.json-display.test" target="1.8" />
+      <module name="info.garagesalesapp.java-project.main" target="1.8" />
+      <module name="info.garagesalesapp.java-project.test" target="1.8" />
+      <module name="java-project.show-date.main" target="11" />
+      <module name="java-project.show-date.test" target="11" />
       <module name="java-project_main" target="1.8" />
       <module name="java-project_test" target="1.8" />
     </bytecodeTargetLevel>
